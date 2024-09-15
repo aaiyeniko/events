@@ -6,9 +6,16 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'utfs.io',
         port: ''
+      },   {
+        protocol: 'https',
+        hostname: 'encrypted-tbn0.gstatic.com',
+        port: ''
       }
+
+     
     ]
   }
 }
 
 module.exports = nextConfig
+
